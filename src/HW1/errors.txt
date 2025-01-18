@@ -1,0 +1,11 @@
+Bad1:
+The error is in compile time.
+The class name (BADOne) doesn't match the file name (Bad1).
+
+Bad2:
+The error is in runtime.
+We can't divide by zero, which is the initial value of variable b.
+
+Bad3:
+The error is in compile time.
+The program attempts to assign a char to a variable of type String.
