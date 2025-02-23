@@ -73,7 +73,9 @@ public abstract class Hero extends Entity {
      * @param enemy Enemy to give damage to.
      */
     public void attack(Enemy enemy) {
-        enemy.takeDamage(this.getDamage());
+        if(this.isAlive()) {
+            enemy.takeDamage(this.getDamage());
+        }
     }
 
     @Override
