@@ -1,5 +1,3 @@
-package HW5;
-
 /**
  * Defines attributes of a knight. A subclass of Hero.
  *

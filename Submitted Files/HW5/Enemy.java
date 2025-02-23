@@ -1,5 +1,3 @@
-package HW5;
-
 /**
  * Defines Enemy behavior and actions, a subclass of Entity.
  *

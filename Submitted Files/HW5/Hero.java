@@ -1,5 +1,3 @@
-package HW5;
-
 /**
  * Class Hero that is a subclass of Entity.
  *

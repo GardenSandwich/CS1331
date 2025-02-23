@@ -1,6 +1,3 @@
-package HW5;
-
-
 /**
  * Defines behavior and attributes of training grounds.
  *
