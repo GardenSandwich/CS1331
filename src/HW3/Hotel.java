@@ -1,3 +1,4 @@
+package HW3;
 //I worked on the homework assignment alone, using only course materials.
 import java.util.Scanner;
 
